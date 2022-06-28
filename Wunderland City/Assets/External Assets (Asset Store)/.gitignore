@@ -1,0 +1,11 @@
+# firstly ignore everything here, but NOT the subfolders
+*
+!*/
+
+# now DON'T ignore our meta files or the gitignore
+# not sure I need the other wildcards, but just in case as I know assets do go two levels deep generally
+!/.gitignore
+!**/*.meta
+!**/*.*.meta
+!**/*.*.*.meta
+!**/*.*.*.*.meta

@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 7f3ed3ca6f3da464eb4083b709b8e932
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CinemachineCameraTarget: {instanceID: 0}
+  - rifleFiredNoise: {instanceID: 0}
+  - pistolFiredNoise: {instanceID: 0}
+  - grenadeExplosionNoise: {instanceID: 0}
+  - jumpingNoise: {instanceID: 0}
+  - walkingNoise: {instanceID: 0}
+  - runningNoise: {instanceID: 0}
+  - heartbeatNoise: {instanceID: 0}
+  - dyingNoise: {instanceID: 0}
+  - droppingDownNoise: {instanceID: 0}
+  - bullet: {fileID: 6268842616148348762, guid: 23403968e34858b43aa15db42edb2e13, type: 3}
+  - rifleClip: {instanceID: 0}
+  - rifle: {instanceID: 0}
+  - aimCamera: {instanceID: 0}
+  - reticuleSearching: {instanceID: 0}
+  - aimPointAhead: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

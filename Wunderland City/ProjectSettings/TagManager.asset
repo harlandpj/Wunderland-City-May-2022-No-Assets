@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnManager
+  - Ground
+  - GameManagement
+  - SceneLoadManager
+  - MainLight
+  - SpiderQueen
+  - CinemachineTarget
+  - AimCamera
+  - AimReticule
+  - ReticuleOnTarget
+  - ReticuleSearching
+  - Rifle
+  - RifleClip
+  - Bullet
+  - PlayerAimPointAhead
+  - AimFromHere
+  - Eyeball
+  - CardGuard
+  - Score
+  - HighScore
+  - Lives
+  - PlayerScore
+  - PlayerLives
+  - PlayerHealth
+  - PlayerHiScore
+  - PlayerName
+  - Quit
+  - FirstAidKit
+  - MessageDisplay
+  - Rabbit
+  - Wolf
+  - MinorMessages
+  - RifleClipNumber
+  - HealthKitNumber
+  - EnemiesLeft
+  - ExitToNextScene
+  - RedKey
+  - HUD
+  - RabbitsLeft
+  - RabbitsLabel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - AimCamera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
